@@ -15,4 +15,15 @@ results you would get.
 Also give a theoretical argument for why X could or could not be correct, based
 on the complexity of the general sorting problem we covered in class.
 
+This seems like it would be quite the generational find if this is possible. I would use the black box to test a variety of different cases such as reverse sorted, empty and a wide variety of different inputs. On the same note on inputs, I would run the same input various times to ensure consistency and as well as using large inputs to see how it performs on a large scale. I would also incorporate a graph and compare it with the speeds of our other algorithms as it should surpass our known fast algorithms such as quicksort or mergesort. Also within our graph, we would expect the the execution time to grow linearly as the input size increases where our very large inputs in the blackbox would make or break this. 
+
+I don't believe this is possible since from what we discussed in class as our lower bound for these algorithms is O(nlogn) which the researcher would have somehow beat. 
+
+Sources:
+none
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
+
+
+
 Add your answers to this markdown file.
